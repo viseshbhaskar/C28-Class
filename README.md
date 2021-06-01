@@ -1,2 +1,2 @@
-# C28-Class
-How to put a slingshot manner
+# p5.play-boilerplate
+Boiler plate for p5.play
